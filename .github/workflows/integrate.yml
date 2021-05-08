@@ -1,7 +1,6 @@
 name: Node ci
 
 on:
- 
   pull_request:
     branches: [ master ]
 
